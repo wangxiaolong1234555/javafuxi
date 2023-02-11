@@ -22,5 +22,14 @@ public class variableDemo3 {
         //double
         double d =20.2;
         System.out.println(d);
+
+        //char
+        char c ='中';
+        System.out.println(c);
+
+        //boolean
+        //只有两个值：true false
+        boolean t = true;
+        System.out.println(t);
     }
 }
