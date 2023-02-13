@@ -6,6 +6,8 @@ public class VariableDemo4 {
         //创建对象————表示我要开始用Scanner这个类了
         int i = sc.nextInt();
         //接收数据————真正开始干活了。
+        //变量i记录了键盘录入的数据
+        System.out.println(i);
     }
 
 }
