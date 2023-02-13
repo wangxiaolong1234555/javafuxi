@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //导包 ————Scanner这个类在哪
-public class VariableDemo4 {
+public class ScannerDemo4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //创建对象————表示我要开始用Scanner这个类了
